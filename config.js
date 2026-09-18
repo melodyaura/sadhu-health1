@@ -11,5 +11,5 @@
   Cara membuat reCAPTCHA (gratis), ada di PANDUAN.md bagian "Langkah 2".
 */
 window.CSK_CONFIG = {
-  recaptchaSiteKey: 'ISI_RECAPTCHA_SITE_KEY' // atau biarkan begini untuk pakai centang cadangan
+  recaptchaSiteKey: '6LdWrMItAAAAAO7Y-ltKG1dV9QirgyLN1Mveb9Ub' // atau biarkan begini untuk pakai centang cadangan
 };
